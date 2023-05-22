@@ -72,4 +72,4 @@ In this project, I used Next.js, Context API, Quick Sort algorithm, and real-tim
 
 Thank you 👍
 
-[preview]: snap.jpg
+[preview]: snap.JPG
