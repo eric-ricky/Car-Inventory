@@ -18,7 +18,7 @@ This is a simple web application built using Next.js that retrieves car inventor
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/eric-ricky/Car-Inventory.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
